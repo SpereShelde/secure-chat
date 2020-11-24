@@ -1,0 +1,10 @@
+{
+  "apiConfig": {
+      "port": 8181,
+      "host": "localhost"
+  },
+  "databaseConfig": {
+    "url": "mongodb://localhost:27017/",
+    "database": "secureChat"
+  }
+}
